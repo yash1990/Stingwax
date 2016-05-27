@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CategoryName</key>
+		<string>POP HOP</string>
+		<key>CategoryDescrption</key>
+		<string>Scorching-hot hits from EDM, Pop, Top 40, and Hip-Hop. We’re constantly adding the newest, hottest artists. No need to scramble looking for the hits- leave it to us. All of your Top 40, peppered in with old school and new school Hip-Hop. Hits the spot!</string>
+		<key>image1</key>
+		<string>img_PopHop_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_PopHop_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_PopHop_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>ELECTRIC JUKEBOX</string>
+		<key>CategoryDescrption</key>
+		<string>A blast of BPMs from across the Electro spectrum. And we mean across the Electro spectrum! Hits from your favorite electronic music genres, all blended in one category. These genres include House, Progressive Trance, Electro, Breaks, Dance, Dubstep, Trap and more.</string>
+		<key>image1</key>
+		<string>img_Electric_Jukebox_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_Electric_Jukebox_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_Electric_Jukebox_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>TIME BANDIT</string>
+		<key>CategoryDescrption</key>
+		<string>Timeless hits and classic tracks from every decade. This is an excellent choice if you enjoy hits from the past. Even the ones you forgot about! We plucked all the timeless tracks and give you a musical journey into the past of multiple genres.</string>
+		<key>image1</key>
+		<string>img_TimeBandit_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_TimeBandit_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_TimeBandit_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>PERFECT STORM</string>
+		<key>CategoryDescrption</key>
+		<string>A laid-back mix of Lounge, Downtempo, and Chic. The setting of inspiration for these sets is an upscale, posh atmosphere. A cool and elegant way to set the mood. Excellent for hotels, cocktail lounges, or simply to bring a chill vibe to your home.</string>
+		<key>image1</key>
+		<string>img_PerformStrom_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_PerformStrom_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_PerformStrom_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>CLUB ZONE</string>
+		<key>CategoryDescrption</key>
+		<string>Specifically designed to take over the club. This is our prime category for non- stop energy. An ultra mix of euphoric hits, mashups, and the hottest new music to have you in a frenzy, dancing the night away.</string>
+		<key>image1</key>
+		<string>img_ClubZone_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_ClubZone_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_ClubZone_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>MUSIC COCKTAIL</string>
+		<key>CategoryDescrption</key>
+		<string>Here, we’ve taken a little bit of every category across the board. This is one big mash up; excellent for diversity. No need to keep switching categories! An ideal mix for commercial subscribers that can please a variety of age groups. Here there’s something for everyone!</string>
+		<key>image1</key>
+		<string>img_MusicCocktail_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_MusicCocktail_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_MusicCocktail_Desc_Pic_3</string>
+	</dict>
+	<dict>
+		<key>CategoryName</key>
+		<string>PURE PLAY</string>
+		<key>CategoryDescrption</key>
+		<string>Hand-picked and pure for sound that’s true to theme. If you’re a purist and want only house, just reggae, straight 80s, etc., try our Pure Play categories. There’s no bouncing here- just unadulterated genres.</string>
+		<key>image1</key>
+		<string>img_PurePlay_Desc_Pic_1</string>
+		<key>image2</key>
+		<string>img_PurePlay_Desc_Pic_2</string>
+		<key>image3</key>
+		<string>img_PurePlay_Desc_Pic_3</string>
+	</dict>
+</array>
+</plist>

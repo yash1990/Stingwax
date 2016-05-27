@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>254FDC27-00CE-45FA-9C38-418E33502963</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StingWax</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>051138CF-8549-4DE3-A922-07EE0AE5264E</key>
+		<string>ssh://medl.beanstalkapp.com//medl/stingwax_ios.git</string>
+		<key>570A9CB39B8425D617B121275EF768C2BBA8926E</key>
+		<string>medl.git.beanstalkapp.com:/medl/stingwax_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StingWax/StingWax.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>051138CF-8549-4DE3-A922-07EE0AE5264E</key>
+		<string>../../../repo</string>
+		<key>570A9CB39B8425D617B121275EF768C2BBA8926E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>medl.git.beanstalkapp.com:/medl/stingwax_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>570A9CB39B8425D617B121275EF768C2BBA8926E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>051138CF-8549-4DE3-A922-07EE0AE5264E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>repo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>570A9CB39B8425D617B121275EF768C2BBA8926E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StingwaxiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

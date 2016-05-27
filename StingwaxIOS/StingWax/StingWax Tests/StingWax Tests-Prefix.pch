@@ -1,0 +1,21 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #import "StingWax-Keys.h"
+    #import "StingWax-Types.h"
+    #import "StyleSheet.h"
+    #import "SWAPI.h"
+    #import "SWAppState.h"
+    #import "SWHelper.h"
+    #import "QuartzHelper.h"
+    #import "AFNetworking.h"
+    #import "SVProgressHUD.h"
+    #import "UIColor-Expanded.h"
+#endif

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Reachability.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StingWax Tests-Nocilla.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StingWax Tests-OCHamcrest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StingWax Tests-OCMock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StingWax Tests-OHHTTPStubs.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StingWax Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1F7F6C2472E249D19B9CA1C9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B9F5689AF2345A98552118D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>43B37CA72DCC46AE94387FE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55DBBE03A30443049E0E3D74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C88B4FB3EB249F1B88213E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>87BB5DD333BB4AAE82883936</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B2CA5836060F490294EE4745</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D740ADE0DD654762A152FE75</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EAEEFEBB93A0415DBBC5DE2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
